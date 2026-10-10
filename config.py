@@ -1,3 +1,3 @@
-TOKEN = "ТВОЙ_ТОКЕН_БОТА"
-YANDEX_KEY = "ТВОЙ_YANDEX_КЛЮЧ"
-YANDEX_FOLDER = "ТВОЙ_FOLDER_ID"
+TOKEN = "8891792554:AAFBvJiGp92pzEqWD-UIkmG6JtBKrDCKZn4"
+YANDEX_KEY = "AQVN0Ot5LABmdpN5oUjjixeJJfhX3fL_IdzdmZb-"
+YANDEX_FOLDER = "b1g3bdebiehblrg1jeof"
